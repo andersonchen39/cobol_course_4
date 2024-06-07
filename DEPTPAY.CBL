@@ -4,7 +4,7 @@
        DATA DIVISION.
        WORKING-STORAGE SECTION.
        01  DEPT-RECORD.
-           05  DEPT-NAME            PIC X(20).
+           05  DEPT-NAME            PIC X(10).
            05  DEPT-LOC             PIC X(12).
            05  DEPT-MANAGER.
                 10 MANAGER-FNAME    PIC X(15).
