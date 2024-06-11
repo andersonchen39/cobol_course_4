@@ -7,7 +7,7 @@
            05  DEPT-NAME            PIC X(10).
            05  DEPT-LOC             PIC X(12).
            05  DEPT-MANAGER.
-                10 MANAGER-FNAME    PIC X(15).
+                10 MANAGER-FNAME    PIC X(25).
                 10 MANAGER-LNAME    PIC X(15).
            05  DEPT-NBR-EMPS        PIC 9(3).
            05  DEPT-TOTAL-SALARIES  PIC 9(7)V99.
